@@ -1,37 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationTestsRecettes\\git\\Evaluations\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\EvaluationSampleCode.csproj": {}
+    "/Users/florafrenot/Documents/FullStack/DevOps/Exercices/devops_evaluation/EvaluationSampleCode/EvaluationSampleCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationTestsRecettes\\git\\Evaluations\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\EvaluationSampleCode.csproj": {
+    "/Users/florafrenot/Documents/FullStack/DevOps/Exercices/devops_evaluation/EvaluationSampleCode/EvaluationSampleCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationTestsRecettes\\git\\Evaluations\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\EvaluationSampleCode.csproj",
+        "projectUniqueName": "/Users/florafrenot/Documents/FullStack/DevOps/Exercices/devops_evaluation/EvaluationSampleCode/EvaluationSampleCode.csproj",
         "projectName": "EvaluationSampleCode",
-        "projectPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationTestsRecettes\\git\\Evaluations\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\EvaluationSampleCode.csproj",
-        "packagesPath": "C:\\Users\\cdric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cdric\\OneDrive\\Bureau\\Formations\\FormationTestsRecettes\\git\\Evaluations\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\obj\\",
+        "projectPath": "/Users/florafrenot/Documents/FullStack/DevOps/Exercices/devops_evaluation/EvaluationSampleCode/EvaluationSampleCode.csproj",
+        "packagesPath": "/Users/florafrenot/.nuget/packages/",
+        "outputPath": "/Users/florafrenot/Documents/FullStack/DevOps/Exercices/devops_evaluation/EvaluationSampleCode/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\cdric\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/florafrenot/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     }

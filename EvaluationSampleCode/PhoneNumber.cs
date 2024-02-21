@@ -16,7 +16,7 @@ namespace EvaluationSampleCode
         // Area : 012
         // Major : 345
         // Minor : 6789
-        private PhoneNumber(string area, string major, string minor)
+        public PhoneNumber(string area, string major, string minor)
         {
             Area = area;
             Major = major;
