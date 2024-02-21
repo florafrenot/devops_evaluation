@@ -33,3 +33,4 @@ Evaluation DFS DevOps, tester son code
     - Garder vos tests les plus propres et factorisés possibles
     - La présence d'une CI
     - La mise en place d'au moins une pull request avec revue de code
+
